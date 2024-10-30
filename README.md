@@ -17,3 +17,5 @@ Interesting Trends from Austin, TX:
 Among users from Austin, getify also stands out with 210,813 stars, followed by others like benawad (30,390 stars). Austin appears to host several influential developers.
     
  
+#  actionable recommendation
+* consestancy and update to latest programing skill
